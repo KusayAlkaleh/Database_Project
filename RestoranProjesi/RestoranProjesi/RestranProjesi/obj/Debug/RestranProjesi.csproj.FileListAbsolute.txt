@@ -1,0 +1,109 @@
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe.config
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\bin\Debug\RestranProjesi.pdb
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmLogin.resources
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.Properties.Resources.resources
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CopyComplete
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.exe
+C:\Users\moham\source\repos\RestranProjesi\RestranProjesi\obj\Debug\RestranProjesi.pdb
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe.config
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.pdb
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.AssemblyReference.cache
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmLogin.resources
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.Properties.Resources.resources
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.GenerateResource.cache
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CoreCompileInputs.cache
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CopyComplete
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.exe
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.pdb
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Npgsql.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Buffers.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Memory.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Npgsql.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Buffers.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Memory.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmMain.resources
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmHome.resources
+C:\Users\liosu\Desktop\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.SimpleAdd.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe.config
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.exe
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\RestranProjesi.pdb
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Npgsql.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Buffers.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Memory.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\Npgsql.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Buffers.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Memory.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmHome.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmLogin.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.frmMain.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.Properties.Resources.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.SimpleAdd.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.csproj.CopyComplete
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.exe
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.pdb
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.SimpleView.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.View.frmCategoryView.resources
+C:\Users\moham\OneDrive\سطح المكتب\RestoranProjesi\RestoranProjesi\RestranProjesi\obj\Debug\RestranProjesi.Model.frmCategoryAdd.resources

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RestranProjesi.frmHome" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.frmLogin" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAECAEABAAAACAgAACACACCAAAAAAAAABAAAE=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.frmMain" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gUAAAYACGCIAFBAAAAiAgAAOICACAAAAAICAAAAgAAE=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.frmUrunler" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABCAAAFQRgACIQEAGACAAARAAACQAQAIACQQ=</HashCode>
+      <FileName>frmUrunler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.Hashtable" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hashtable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.MainClass" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAQAAAAAAAAAQAAgAAAAAEgQAAAAAAAAQA=</HashCode>
+      <FileName>MainClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.Program" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.SimpleAdd" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAADAAABAAAACAAAACAAACQBAAAIAAAAIAAAE=</HashCode>
+      <FileName>SimpleAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.SimpleView" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAIBAAAACAAAACAAAAgAAAAAAAAAACAAI=</HashCode>
+      <FileName>SimpleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.Model.frmCategoryAdd" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAABAABAAAAAAAAgA=</HashCode>
+      <FileName>Model\frmCategoryAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIEAAAAEAAAABgAAABN4AEAQCAAAANASAABgAgCIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestranProjesi.View.frmCategoryView" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAABACQAIAQFAACAAAACACCAAAQAAAAAAAAAAAI=</HashCode>
+      <FileName>View\frmCategoryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
